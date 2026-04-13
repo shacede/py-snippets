@@ -25,3 +25,8 @@ Personal development log — notes, findings, and ongoing work.
 - Investigated performance bottleneck, noted findings
 - Reviewed security headers configuration
 - Refactored module structure for clarity
+
+## 2026-04-13
+- Cleaned up old debug logs
+- Fixed minor edge case in input handling
+- Cross-checked behaviour against spec
